@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git3");
         System.out.println("hello githot-fix");
         System.out.println("hello git combinelater4");
+        System.out.println("hello githot-fix2");
     }
 }
